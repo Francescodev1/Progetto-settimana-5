@@ -1,0 +1,89 @@
+body{
+color: #fff;
+width: 100%;
+}
+
+.icon{
+    color: #fff;
+    cursor: pointer;
+}
+
+.genres{
+width: 6em;
+font-size: small;
+}
+
+
+
+
+  .card{
+    width: 10rem;
+    background-color: #141414;
+    border-radius: 4px;
+    transition: 0.2s ;
+    margin: 3px;
+    position: relative;
+  }
+
+  .card:hover{
+    transform: scale(1.2);
+    z-index: 10;
+  }
+
+  h3{
+    font-size: small;
+  }
+  h2{
+    font-size: large;
+  }
+
+
+  footer{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 80px;
+    
+
+  }
+
+  .tastini{
+    cursor: pointer;
+  }
+
+
+
+
+
+
+
+
+.contenitore{
+    width: ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    
+}
+
+.imgProfilo{
+    width: 100px;
+    height: 100px;
+}
+
+.item{
+    width: 30%;
+    color: rgb(114, 115, 115);
+   
+}
+
+.item:hover{ 
+    background-color: #fff;
+    color: black;
+    font-weight: bold;
+} 
+
+.firstbtn{
+    width: 80%;
+    text-align: left;
+}
